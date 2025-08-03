@@ -4,7 +4,7 @@ This figure shows the features that have significant relationship (p<0.05) with 
 
 **The text in this figure may be too small, you can zoom this PDF in the browser. The text labels in the upper subfigure are the codes in CLHLS, while the lower subfigure's text labels are their description.**
 
-![validated age_merged](validated age_merged.png)
+![validated age_merged](validated%20age_merged.png)
 
 Then I calculated the significance between sex and other features to determine if I need to calculate the Biological Age depending on different sex. This is the figure. 
 
