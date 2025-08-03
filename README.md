@@ -92,14 +92,14 @@ Before showing the correlation heatmap of these four categories' aging rate, her
 
 **As for diet, the features are just the frequencies how interviewees have some food. And larger numbers means they have fewer food of this kind, so this chart actually shows the effect of slowing down physiological aging. The types of food are not specific, and so called junk food are not included, so my conclusions may be not convincible. At least it seems the protein intake (meat, fish, egg, milk) and the combination of different sources of protein really matter when slowing down the aging process. Fibers, pickles or oil types are not significant here. **
 
-![image-20240714230722325](C:\Users\17544\AppData\Roaming\Typora\typora-user-images\image-20240714230722325.png)
+![image-20240714230722325](Synergistic.png)
 
 **The antagonistic effects also exist. In CLHLS, drinking boiled water is marked as 1 while unboiled as 2, so we find that drinking unboiled water makes people physiologically older. However, intaking nutritious food can counteract the effect of drinking unboiled water. This can be explained by better nutrition level equips people with better immunity to negative conditions in water, including harmful mocrobes, especially for the elderly.**
 
-![image-20240714231020750](C:\Users\17544\AppData\Roaming\Typora\typora-user-images\image-20240714231020750.png)
+![image-20240714231020750](Antagonistic.png)
 
 ## 5.Calculating Correlations between Different Categories
 
 This heatmap shows several conclusions. The Aging Rate calculated by Category Diet has almost no correlation with others. The other 3 categories have high correlations between each other. Fitness and Lifestyle has the highest correlation because they are sometimes complementary to each other. The aged one with weak body can't work out naturally, while those have the habit to work out **or just not too old to remain the ability to do something** should have a better body condition. As for Cognition,  clear cognition is the prerequisite for maintaining the lifestyle that includes exercise and entertainment.
 
-![Aging Rate Correlation Heatmap](.Aging Rate Correlation Heatmap.png)
+![Aging Rate Correlation Heatmap](Aging Rate Correlation Heatmap.png)
