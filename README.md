@@ -102,4 +102,4 @@ Before showing the correlation heatmap of these four categories' aging rate, her
 
 This heatmap shows several conclusions. The Aging Rate calculated by Category Diet has almost no correlation with others. The other 3 categories have high correlations between each other. Fitness and Lifestyle has the highest correlation because they are sometimes complementary to each other. The aged one with weak body can't work out naturally, while those have the habit to work out **or just not too old to remain the ability to do something** should have a better body condition. As for Cognition,  clear cognition is the prerequisite for maintaining the lifestyle that includes exercise and entertainment.
 
-![Aging Rate Correlation Heatmap](Aging_Rate_Correlation_Heatmap.png)
+![Aging Rate Correlation Heatmap](Aging%20Rate%20Correlation%20Heatmap.png)
