@@ -4,11 +4,11 @@ This figure shows the features that have significant relationship (p<0.05) with 
 
 **The text in this figure may be too small, you can zoom this PDF in the browser. The text labels in the upper subfigure are the codes in CLHLS, while the lower subfigure's text labels are their description.**
 
-![validated age_merged](..\BA-CA\validated age_merged.png)
+![validated age_merged](.\validated age_merged.png)
 
 Then I calculated the significance between sex and other features to determine if I need to calculate the Biological Age depending on different sex. This is the figure. 
 
-![sex_merged](..\BA-CA\sex_merged.png)
+![sex_merged](.\sex_merged.png)
 
 Some features show extreme correlation with sex, but sometimes they are meaningless. Like 'the sex of 1st person living with you currently'. Gladly, after comparing, these features don't have any correlation with age. Ignoring these features, the others really differs by sex.
 
@@ -74,7 +74,7 @@ This figure shows the only 4 categories with which KDM provides the acceptable B
 
 **As plots shown in the first subfigure, fitting them with a quadratic curve can be a better choice. People can get dementia or some cognitive diseases like AD easily when they get older, and this tendency actually accelerates when getting older. This general knowledge is also consistent with the quadratic curve conclusion.**
 
-![merged_image](..\BA-CA\merged_image.png)
+![merged_image](.\merged_image.png)
 
 
 
@@ -88,7 +88,7 @@ AgingRate=\frac{BiologicalAge-TrueAge}{TrueAge}
 $$
 Before showing the correlation heatmap of these four categories' aging rate, here is a figure showing the distribution of Aging Rate of different categories. It's another kind of visualization that shows the effect of calculating Biological Age by different categories. Because of larger skewness, cognition category can lead to higher Biological Age, so as lifestyle. Fitness and diet can make people biologically younger.
 
-![distributionRate](..\BA-CA\distributionRate.png)
+![distributionRate](.\distributionRate.png)
 
 **As for diet, the features are just the frequencies how interviewees have some food. And larger numbers means they have fewer food of this kind, so this chart actually shows the effect of slowing down physiological aging. The types of food are not specific, and so called junk food are not included, so my conclusions may be not convincible. At least it seems the protein intake (meat, fish, egg, milk) and the combination of different sources of protein really matter when slowing down the aging process. Fibers, pickles or oil types are not significant here. **
 
